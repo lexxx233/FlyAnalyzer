@@ -2,7 +2,7 @@
 
 ##Introduction
 
-Flynotyper is a software tool to quantify eye morphology phenotypes in Drosophila melanogaster.  
+Flynotyper is a image processing tool for quantifying eye morphology phenotypes in fruit flies (Drosophila melanogaster).  
 About two-thirds of the vital genes in the Drosophila genome are also involved in eye development, 
 making the fly eye a tangible system to study basic biological processes.  Quantifying defects in 
 eye morphology can be useful to understand gene control and classify genetic interactions.  
